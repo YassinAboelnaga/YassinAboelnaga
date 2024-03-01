@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YassinAboelnaga
+- 👀 I’m a student at the faculty of computer sceince in cairo university
+-emial: yassinahmad27@gmail.com 
